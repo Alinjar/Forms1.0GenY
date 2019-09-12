@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FormsApp1.0</string>
+    <string name="hint_name">Name</string>
+</resources>
